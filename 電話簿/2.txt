@@ -1,0 +1,9 @@
+i studentID:406410088	name:dot	phone:0913241558	email:dot@gmail.com
+i studentID:406410087	name:ann	phone:0912345678	email:ann@gmail.com
+l
+d studentID:406410088
+d studentID:406410088
+l
+u studentID:406410087	name:sam	phone:0912345678	email:sam@gmail.com
+f sa
+q
