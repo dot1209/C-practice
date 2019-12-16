@@ -5,6 +5,7 @@
 * gcc phonebook.c
 
 ## 執行
+* ./a.out
 * Insert the record : i studentID (tab) name (tab) phone (tab) email
 * Delete the record : d studentID
 * Update the record : u studentID (tab) name (tab) phone (tab) email
